@@ -1,2 +1,2 @@
 # landspace-photo-gallery
-A simple responsive landscape photo gallery.
+A simple responsive photo gallery of random landscape images.
